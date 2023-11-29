@@ -1,0 +1,11 @@
+
+.memberList{
+    
+    text-align: center;
+    margin-top: 4rem;
+}
+.members{
+    display: flex;
+    margin: 2rem;
+    flex-wrap: wrap;
+}

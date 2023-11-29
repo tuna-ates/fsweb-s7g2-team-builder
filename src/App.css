@@ -1,7 +1,19 @@
 .App {
   text-align: center;
 }
-
+.navBar{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 2rem ;
+  background-color: rgb(120, 115, 115);
+  border-bottom: 2px solid black;
+}
+.navBar .linked{
+  display: flex;
+  font-size: large;
+  color: white;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
